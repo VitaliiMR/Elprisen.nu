@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "ElPriser.nu – elpriser i Danmark",
+  "short_name": "ElPriser.nu",
+  "description": "Se aktuelle og historiske elpriser i Danmark time for time.",
+  "lang": "da",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#27282b",
+  "theme_color": "#201e1e",
+  "categories": ["utilities", "finance"],
+  "icons": [
+    { "src": "./Assets/icons/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "./Assets/icons/app-icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "./Assets/icons/app-icon-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

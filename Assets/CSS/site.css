@@ -1,0 +1,309 @@
+/* Mobile - Lige nu */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #27282B;
+
+
+/* Content */
+
+position: absolute;
+width: 277px;
+height: 428px;
+left: 48px;
+top: 120px;
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 277px;
+height: 277px;
+left: 48px;
+top: 227px;
+
+background: #201E1E;
+border: 8px solid rgba(0, 0, 0, 0.1);
+box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25), inset 0px 0px 8px 2px rgba(255, 255, 255, 0.25);
+
+
+/* Ellipse 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 244px;
+height: 244px;
+left: 65px;
+top: 243px;
+
+background: #1E1E1E;
+border: 1px dashed rgba(85, 236, 32, 0.5);
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 217px;
+height: 217px;
+left: 78px;
+top: 257px;
+
+background: #1E1E1E;
+border: 1px dashed rgba(85, 236, 32, 0.75);
+
+
+/* 22.00 - 23.00 */
+
+position: absolute;
+width: 97px;
+height: 18px;
+left: 138px;
+top: 530px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #55EC20;
+
+
+
+/* Elprisen lige nu */
+
+position: absolute;
+width: 277px;
+height: 53px;
+left: 48px;
+top: 120px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+font-variant: all-small-caps;
+
+color: #EBEBEB;
+
+
+
+/* 0.242 KR PR. KWH */
+
+position: absolute;
+width: 164px;
+height: 50px;
+left: 105px;
+top: 340px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #55EC20;
+
+
+
+/* Navigation */
+
+position: absolute;
+width: 375px;
+height: 55px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 375px;
+height: 55px;
+left: 0px;
+top: 0px;
+
+background: #201E1E;
+
+
+/* Oversigt */
+
+position: absolute;
+width: 78px;
+height: 22px;
+left: 126px;
+top: 16px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+font-variant: all-small-caps;
+
+color: #EBEBEB;
+
+
+
+/* Historik */
+
+position: absolute;
+width: 78px;
+height: 22px;
+left: 281px;
+top: 16px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+font-variant: all-small-caps;
+
+color: #EBEBEB;
+
+
+
+/* Lige nu */
+
+position: absolute;
+width: 78px;
+height: 22px;
+left: 203px;
+top: 16px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+font-variant: all-small-caps;
+
+color: #55EC20;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 30px;
+top: 10px;
+
+
+
+/* Ellipse 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 30px;
+top: 10px;
+
+background: #201E1E;
+border: 4px dashed rgba(85, 236, 32, 0.5);
+box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.25), inset 0px 0px 8px 2px rgba(91, 91, 91, 0.25);
+
+
+/* 🦆 icon "Lightning Bolt" */
+
+position: absolute;
+width: 11.06px;
+height: 17.7px;
+left: 41.89px;
+top: 18.58px;
+
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 11.17%;
+right: 85.88%;
+top: 2.29%;
+bottom: 95.53%;
+
+background: #201E1E;
+border: 1px solid #55EC20;
+
+
+/* Footer */
+
+position: absolute;
+width: 375px;
+height: 79px;
+left: 0px;
+top: 733px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 375px;
+height: 79px;
+left: 0px;
+top: 733px;
+
+background: #201E1E;
+
+
+/* Priserne er ex. moms og afgifter Du vises lige nu priserne for Øst Danmark */
+
+position: absolute;
+width: 276px;
+height: 57px;
+left: 48px;
+top: 755px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #EBEBEB;
+
+
+
+/* 🦆 icon "cog" */
+
+position: absolute;
+width: 22px;
+height: 23px;
+left: 337px;
+top: 74px;
+
+
+
+/* Vector */
+    
+box-sizing: border-box;
+position: absolute;
+left: 89.87%;
+right: 4.27%;
+top: 9.11%;
+bottom: 88.05%;
+
+background: #55EC20;
