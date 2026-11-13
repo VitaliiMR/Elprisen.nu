@@ -1,6 +1,6 @@
 const API = "https://www.elprisenligenu.dk/api/v1/prices";
 const ICONS = "./Assets/icons/fontawesome/";
-const SITE_ID = window.location.pathname.split("/").filter(Boolean)[0] || "root";
+const SITE_ID = window.location.pathname.split("").filter(Boolean)[0] || "root";
 const CACHE = `elprisen:${SITE_ID}:prices`;
 const SETTINGS = `elprisen:${SITE_ID}:area`;
 const app = document.querySelector("#app");
